@@ -1,6 +1,6 @@
 # PomodoroTracker
 
-## Приложение PomodoroTracker, которое отмеряет промежутки времени(помидоры) и отдыха для более продуктивной работы.
+## Приложение PomodoroTracker, которое отмеряет промежутки времени для более продуктивной работы.
 
 Стек для реализации приложения Python • FastAPI • Pydantic • Poetry • Alembic • Docker • PosrgreSQL • Redis
 
